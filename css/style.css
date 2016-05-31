@@ -1,0 +1,28 @@
+body {
+  color: black;
+  background-color: #660099;
+}
+
+.header {
+  text-shadow: .5px .5px #666;
+}
+
+li {
+  display: inline-block;
+  margin: auto;
+}
+
+.name {
+  margin: auto;
+}
+
+.feed {
+  margin: auto;
+  padding: 1%
+}
+
+.info {
+  color: black;
+  background-color: #999;
+  border-radius: 50px;
+}
